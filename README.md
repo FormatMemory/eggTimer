@@ -4,4 +4,4 @@ A simple android timer app
 ### See demo below:
 
 
-![](./demo_image.gif)
+![alt text](demo_image.gif)
