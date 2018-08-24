@@ -1,7 +1,7 @@
 # eggTimer
 A simple android timer app
 
-###See demo below:
+### See demo below:
 
 
-![demo](./demo_image.gif)
+![](./demo_image.gif)
